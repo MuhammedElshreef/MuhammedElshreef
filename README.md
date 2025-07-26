@@ -15,7 +15,7 @@ I'm a Frontend Developer based in Libya — I craft websites, web apps, and ever
 
 ### 🚀 Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,angular,tailwind,bootstrap,git,github)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,angular,tailwind,git,github)
 
 ---
 
@@ -28,8 +28,8 @@ I'm a Frontend Developer based in Libya — I craft websites, web apps, and ever
 
 ### 📊 GitHub Stats
 
-![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsayed-dev&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsayed-dev&layout=compact)](https://github.com/alsayed-dev)
+![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedElshreef&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedElshreef&layout=compact)](https://github.com/MuhammedElshreef)
 
 ---
 
