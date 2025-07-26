@@ -13,9 +13,12 @@ I'm a Frontend Developer based in Libya — I craft websites, web apps, and ever
 
 ---
 
-### 🚀 Tech Stack
+### 🔧 Technologies & Tools
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,angular,tailwind,git,github)
+**Frontend:** Vue.js, Nuxt.js, Angular  
+<!-- **Backend:** Laravel  
+**Database:** MySQL   -->
+**Other Skills:** HTML, CSS, JavaScript, TypeScript, , Tailwind CSS, Git, GitHub
 
 ---
 
@@ -28,8 +31,8 @@ I'm a Frontend Developer based in Libya — I craft websites, web apps, and ever
 
 ### 📊 GitHub Stats
 
-![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammedElshreef&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedElshreef&layout=compact)](https://github.com/MuhammedElshreef)
+![Stats](https://github-readme-stats.vercel.app/api?username=MuhammedElshreef&show_icons=true&theme=tokyonight)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedElshreef&layout=compact&theme=tokyonight)
 
 ---
 
