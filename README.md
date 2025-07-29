@@ -24,7 +24,7 @@ I'm a Frontend Developer based in Libya — I craft websites, web apps, and ever
 
 ### 📌 Projects & Portfolio
 
-🌐 [My Portfolio](https://wwww.alsayed.ly/) – A showcase of my latest work and skills  
+🌐 [My Portfolio](https://www.alsayed.ly/) – A showcase of my latest work and skills  
 📁 Check out some of my pinned repos below for open-source contributions and side projects
 
 ---
